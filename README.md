@@ -1,6 +1,6 @@
 - 👋 Salut, moi c'est Maxime.
 - 👀 Je suis actuellement en 2ème année de DUT Informatique à Belfort.
-- ✨ J'aime la programmation et le web (Java, Python, C et HTML5, CSS3, PHP, JavaScript)
+- ✨ J'aime la programmation et le web (Java, Python, C et HTML5, CSS3, PHP, JavaScript, VueJS)
 - 🌱 Je suis encore débutant mais mon but est de pouvoir m'épanouir dans ce que je fais.
 
 <!---
