@@ -1,19 +1,11 @@
 # Hey Everyone! I'm [TheFive7 !](https://github.com/TheFive7)
 <br><br>
-<a href="https://www.linkedin.com/in/maxime-hennequin/">
-  <img align="left" alt="My Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/TheFive7">
-  <img align="left" alt="My Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp> Developer, passionate about IT. </samp></h4></p>
 
 <div>
   <h3><b><samp>General:</samp></b></h3>
-  - 👷 <samp><b>IT Student</b>
+  - 👷 <samp><b>IT Student</b><br>
   - 🎮 <samp>I play a lot of games (RTS, FPS, management games, indee games...) too much to write on a page !
 
   <h5><b><samp>Games Platforms</samp></b></h5>
