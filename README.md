@@ -5,7 +5,7 @@
 <div>
   <h3><b><samp>General:</samp></b></h3>
   - 👷 <samp><b>IT Student</b><br>
-  - 🎮 <samp>I play a lot of games (RTS, FPS, management games, indee games...) too much to write on a page !
+  - 🎮 <samp><b>I play a lot of games (RTS, FPS, management games, indee games...) too much to write on a page ! </b></samp>
 </div>
 
 ##
