@@ -1,10 +1,10 @@
 # Hi Everyone! I'm [TheFive7 !](https://github.com/TheFive7)
 
-<p align="center"><h4 align="center"><samp> Developer, passionate about IT. </samp></h4></p>
+<p align="center"><h3 align="center"><samp> Developer, passionate about IT. </samp></h3></p>
 
 <div>
   <h3><b><samp>General:</samp></b></h3>
-  - 👷 <samp><b>IT Student</b><br>
+  - 👷 <samp><b>IT Student</b></samp><br>
   - 🎮 <samp><b>I play a lot of games (RTS, FPS, management games, indee games...) too much to write on a page ! </b></samp>
 </div>
 
