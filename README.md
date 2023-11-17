@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [TheFive7 !](https://github.com/TheFive7)
+# Hi Everyone! I'm [TheFive7 !](https://github.com/TheFive7)
 
 <p align="center"><h4 align="center"><samp> Developer, passionate about IT. </samp></h4></p>
 
