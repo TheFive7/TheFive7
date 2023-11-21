@@ -1,6 +1,11 @@
 # Hi Everyone! I'm [Maxime](https://github.com/TheFive7) !
 
-<p align="center"><h3 align="center"><samp> Developer, passionate about IT. </samp></h3></p>
+<p align="center">
+  <h3 align="center">
+    <img src="https://github.com/TheFive7/TheFive7/assets/75722116/b6634b4a-d961-43a1-955a-2c0c1d4ac901" style="width: 30%" /> <br>
+    <samp> Developer, passionate about IT. </samp>
+  </h3>
+</p>
 
 <div>
   <h3><b><samp>General:</samp></b></h3>
