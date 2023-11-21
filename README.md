@@ -3,14 +3,20 @@
 <p align="center">
   <h3 align="center">
     <img src="https://github.com/TheFive7/TheFive7/assets/75722116/b6634b4a-d961-43a1-955a-2c0c1d4ac901" style="width: 30%" /> <br>
-    <samp> Developer, passionate about IT. </samp>
+    <samp> Developer, passionate about IT. </samp> <br>
+    <img align="center" alt="TheFive7 profile view count" src="https://komarev.com/ghpvc/?username=TheFive7&style=flat-square&color=blue"/>
   </h3>
 </p>
 
 <div>
   <h3><b><samp>General:</samp></b></h3>
   - 👷 <samp><b>IT Student</b></samp><br>
-  - 🎮 <samp><b>I play a lot of games (RTS, FPS, management games, indee games...) too much to write on a page ! </b></samp>
+  - 🎮 <samp><b>I play a lot of games (RTS, FPS, management games, indee games...) too much to write on a page ! </b></samp> <br><br>
+
+  <h4><b><samp>Some stats (Based on public repositories):</samp></b></h4>
+    
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheFive7&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFive7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ##
