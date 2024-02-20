@@ -2,7 +2,7 @@
 
 <p align="center">
   <h3 align="center">
-    <img src="https://github.com/TheFive7/TheFive7/assets/75722116/b6634b4a-d961-43a1-955a-2c0c1d4ac901" style="width: 30%" /> <br>
+    <img src="https://github.com/TheFive7/TheFive7/blob/main/logo.svg" style="width: 30%" /> <br>
     <samp> Developer, passionate about IT. </samp> <br>
     <img align="center" alt="TheFive7 profile view count" src="https://komarev.com/ghpvc/?username=TheFive7&style=flat-square&color=blue"/>
   </h3>
