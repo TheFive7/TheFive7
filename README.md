@@ -11,7 +11,7 @@
 <div>
   <h3><b><samp>General:</samp></b></h3>
   - 👷 <samp><b>IT Student</b></samp><br>
-  - 🎮 <samp><b>Gamer</b></samp> <br><br>
+  - 🎮 <samp><b>Gamer</b></samp> <br>
   - ❤️ <samp><b>Love programmation</b></samp> <br><br>
 
   <h4><b><samp>Some stats (Based on public repositories):</samp></b></h4>
