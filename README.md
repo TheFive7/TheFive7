@@ -31,7 +31,7 @@
 
 <div>
   <h3><b><samp>Post-Bac Studies:</samp></b></h3>
-  - 👨🏻‍🏫 IT Master (In progress on 2 years)<br>
+  - 👨🏻‍🏫 IT Master (2 years)<br>
   - 👨🏻‍🏫 IT License (1 year)<br>
   - 👨🏻‍🏫 IT DUT (2 years)<br>
   - 👨🏻‍🏫 PREPA Maths (1 year)<br>
